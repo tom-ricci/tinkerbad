@@ -1,0 +1,2 @@
+# tinkerbad
+TinkerCAD but bad.
